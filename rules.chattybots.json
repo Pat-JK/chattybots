@@ -40,8 +40,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"www.youtube.com/@DoctorSexuality",
-						"https://steamcommunity.com/groups/doctors33xx",
+						"youtube.com/@DoctorSexuality",
+						"steamcommunity.com/groups/doctors33xx",
 						"discord.gg/kVzmyDjSWk"
 					]
 				}
