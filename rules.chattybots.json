@@ -27,6 +27,25 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Doctor Sex",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"www.youtube.com/@DoctorSexuality",
+						"https://steamcommunity.com/groups/doctors33xx",
+						"discord.gg/kVzmyDjSWk"
+					]
+				}
+			}
 		}
 	]
 }
