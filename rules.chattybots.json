@@ -15,6 +15,25 @@
 					"cheater"
 				]
 			},
+			"description": "LMAOBOX",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"GET GOOD GET LMAOBOX",
+						"WWW.LMAOBOX.NET - BEST TF2 HACKS!",
+						"LMAOBOX - WAY TO THE TOP"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
 			"description": "OMEGATRONIC",
 			"triggers": {
 				"chatmsg_text_match": {
